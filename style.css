@@ -186,6 +186,7 @@ body {
   }
   .wrap-img img {
     width: 100%;
+    background-color: none;
   }
 }
 .sct-3 {
